@@ -1,0 +1,49 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Embedded Style Sheet</title>
+<style>
+body {}
+header{margin-left: ;
+		margin-right: %;
+		width: 100%;
+	}
+body {margin-left: 0%;
+margin-right: 0%;}
+
+
+h1 {
+	background-color: grey;
+	color: black;
+	border-style: solid;
+	border-width: 1px;
+	padding-left: 10%;
+	height: 3rem
+	border-left: 0px;
+  }
+p.article {border-style: solid;
+	border-width: 1px;
+	margin-left: 10%;
+	margin-right:10%;}
+
+textarea {
+		resize: none;
+		width: 80%;
+		height: 100px;
+		
+	 }
+
+ h2, label {margin-left: 10%;
+		margin-right: 10%;}
+
+#titlefield {margin-left: 10%;
+			margin-bottom: 10px;}
+	 
+#contentarea {margin-left: 10%;
+	margin-right: 10%;
+	
+			}
+			
+#submitbutton{margin-left: 10%;
+				margin-top: 5px;}
